@@ -13,7 +13,7 @@ This project detects fraudulent credit card transactions using machine learning.
 ## How to run
 
 1. Clone repo  
-    `git clone https://github.com/yourusername/credit-card-fraud-detection.git`  
+    `git clone https://github.com/prem2796/credit-card-fraud-detection.git`  
 2. Install dependencies  
     `pip install -r requirements.txt`  
 3. Run the notebook/script in Google Colab or local environment  
